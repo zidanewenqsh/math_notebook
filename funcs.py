@@ -36,11 +36,5 @@ def combine(n,m):
     return factorial(n)/(factorial(m)*factorial(n-m))
 
 if __name__ == '__main__':
-    # help(factorint)
-    x,y,n,m=symbols('x y n m')
-    # print(x>y,type(x>=y),isinstance((x>=y),StrictGreaterThan))
-    # print(type(3.1))
-    # print(combine(n,m))
-    # print(combine(4,2))
-    print(help(Symbol))
+
     print(0)
