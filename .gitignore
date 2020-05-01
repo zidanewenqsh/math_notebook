@@ -1,8 +1,10 @@
-/*s/
+Untitled*.ipynb
+/datas/
+/saves/
 /.*/
 *.txt
 test*.py
-findinpy.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
